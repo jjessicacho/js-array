@@ -10,3 +10,6 @@ Requirement: Write an HTML page styled with basic CSS that includes a JavaScript
 - forEach loop
 - target a variable
 - count up or down using iterative code
+
+## Note:
+- Make sure to check the sample assignment from the class -> This has a simpler script!! 
